@@ -26,7 +26,7 @@ Likelion 14th × SWU · Django Study Group
 
 ## 📖 스터디 자료
 
-[이한영의 Django(장고) 입문]([https://www.yes24.com/Product/Goods/115926574](https://www.aladin.co.kr/shop/wproduct.aspx?itemid=311383694&srsltid=afmboopco8vjc8wgk3dy38n04t_5dtr8ywenvdfhqewpqozlw1o8agvw))
+[이한영의 Django(장고) 입문](https://www.aladin.co.kr/shop/wproduct.aspx?itemid=311383694&srsltid=afmboopco8vjc8wgk3dy38n04t_5dtr8ywenvdfhqewpqozlw1o8agvw)
 
 ---
 
