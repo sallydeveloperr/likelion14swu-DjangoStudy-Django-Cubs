@@ -1,6 +1,7 @@
-# 🦁 Django Cubs
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Django%20Cubs%20🦁&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Young%20lion%20cubs%20growing%20up%20with%20Django&descSize=20&descAlignY=75)
 
-> *Young lion cubs growing up with Django.*
+# 🦁 Django Cubs
+> *Young lion cubs growing up with Django.*  
 > *Django와 함께 성장하는 아기 사자들.*
 
 Likelion 14th × SWU · Django Study Group
@@ -11,8 +12,8 @@ Likelion 14th × SWU · Django Study Group
 
 | 역할 | 이름 |
 |------|------|
-| 팀장 | 최유정 |
-| 팀원 | 김민주, 유미진, 최윤정 |
+| 🦁 팀장 | 최유정 |
+| 🐾 팀원 | 김민주, 유미진, 최윤정 |
 
 ---
 
@@ -32,3 +33,5 @@ Likelion 14th × SWU · Django Study Group
 ## 🔗 Repository
 
 [GitHub - Django Cubs](https://github.com/sallydeveloperr/likelion14swu-DjangoStudy-Django-Cubs)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer)
