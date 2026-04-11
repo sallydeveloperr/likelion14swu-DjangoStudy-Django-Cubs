@@ -26,4 +26,5 @@ urlpatterns = [
     path("", main),
     #'burgers'경로로 접근하면 burger_list라는 직원을 호출
     path("burgers/", burger_list),
+    path("search/", burger_search),
 ]
