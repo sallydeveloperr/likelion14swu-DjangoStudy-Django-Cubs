@@ -18,8 +18,7 @@ Likelion 14th × SWU · Django Study Group
 ---
 
 ## 📅 스터디 일정
-
-- **일시** : 매주 목요일 16:00 (대면)
+- **일시** : 매주 목요일 16:00 ~ 17:30 (대면)
 - **장소** : 도서관 세미나실 4인 예약
 
 ---
@@ -36,14 +35,13 @@ Likelion 14th × SWU · Django Study Group
 ---
 
 ## 📝 기록 방식
-
 - **노션** — 팀 공유 페이지에 매주 스터디 내용 정리
 - **GitHub** — 실습 코드는 각자 브랜치에 업로드
+- **개인 기록** — 매주 본인이 공부한 내용을 개인 기록 양식에 맞게 작성
 
 ---
 
 ## 💡 운영 방식
-
 - 발표자는 매주 돌아가면서 진행
 - 당일 해결 안 된 내용은 다음 주까지 찾아오기
 - 스터디 전날 분량 + 발표자 공지 필수
@@ -51,13 +49,11 @@ Likelion 14th × SWU · Django Study Group
 ---
 
 ## 📖 스터디 자료
-
 [이한영의 Django(장고) 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140703453)
 
 ---
 
 ## 🔗 Repository
-
 [GitHub - Django Cubs](https://github.com/sallydeveloperr/likelion14swu-DjangoStudy-Django-Cubs)
 
 ---
