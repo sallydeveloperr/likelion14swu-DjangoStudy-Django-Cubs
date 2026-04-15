@@ -16,15 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from config.views import * #views.py에 작성한 main 함수 가져오기
+from config.views import index
+from blog.views import post_list
 
-#urlpartterns -> 리스트
 urlpatterns = [
-    path('admin/', admin.site.urls), #관리자 페이지 주소
-    #공백(아무것도 입력하지 않은 경로)과 main 함수 연결
-    #경로를 지정하지 않으면 main 직원을 호출
-    path("", main),
-    #'burgers'경로로 접근하면 burger_list라는 직원을 호출
-    path("burgers/", burger_list),
-    path("search/", burger_search),
+    path('admin/', admin.site.urls),
+    path('', index),
+    path('posts/', post_list),
 ]

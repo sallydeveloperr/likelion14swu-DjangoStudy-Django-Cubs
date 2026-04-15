@@ -7,8 +7,9 @@
       <excludeFolder url="file://$MODULE_DIR$/yujeong/pyburger/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/yunjeong/pyburder/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/yunjeong/class1/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/yunjeong/pyburger/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (likelion14swu-DjangoStudy-Django-Cubs) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (pyburger) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
