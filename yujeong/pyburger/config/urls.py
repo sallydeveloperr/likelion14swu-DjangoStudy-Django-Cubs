@@ -19,7 +19,7 @@ from django.contrib import admin
 from django.urls import path
 
 # burger_list 함수를 추가적으로 import 한다.
-from config.views import main, burger_list
+from config.views import main, burger_list, burger_search
 
 urlpatterns = [
     path("admin/", admin.site.urls),
@@ -27,4 +27,6 @@ urlpatterns = [
     path("", main),
     # 'burgers' 경로로 접근하면 burger_list라는 직원을 호출한다
     path("burgers/", burger_list),
+    path("search/", burger_search),
+
 ]
