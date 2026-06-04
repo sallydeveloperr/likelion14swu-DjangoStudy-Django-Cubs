@@ -48,6 +48,19 @@ Likelion 14th × SWU · Django Study Group
 
 ---
 
+> 마감일 : 2025년 6월 3일
+
+| 이름 | 완료 여부 |
+| --- | --- |
+| 최유정 | ✅ 완료 |
+| 김민주 | ✅ 완료 |
+| 유미진 | ✅ 완료 |
+| 최윤정 | ✅ 완료 |
+
+🎉 **전원 제출 완료!**
+
+---
+
 ## 📖 스터디 자료
 [이한영의 Django(장고) 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791140703453)
 
